@@ -762,16 +762,6 @@ body {
   border-color: #4d5ae5;
 }
 
-/* .contact-form-message::placeholder {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 14px;
-  letter-spacing: 0.04em;
-  color: rgba(46, 47, 66, 0.4);
-} */
-
 .checkbox-field {
   margin-bottom: 24px;
   display: flex;
